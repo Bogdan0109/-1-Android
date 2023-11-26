@@ -7,7 +7,7 @@ import com.myappmysps.animalsapp.data.model.Animal
 import com.myappmysps.animalsapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-    private val bird= Animal(name = "Bird", description = "Colorful birds, vital for ecosystems, bring joy with melodies and vibrant plumage.",R.drawable.bird)
+    private val bird= Animal(name = "Bird", description = "Colorful bird, vital for ecosystems, bring joy with melodies and vibrant plumage.",R.drawable.bird)
     private val dog= Animal(name = "Dog", description = "Loyal dogs, cherished companions, offer boundless joy with wagging tails and unwavering loyalty.",R.drawable.dog)
     private val jack= Animal(name = "Jack", description = "Quirky hedgehogs, unique defenders, enchant with their adorable quills and nighttime foraging.",R.drawable.jack)
 
