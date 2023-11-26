@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\mipmap-xxhdpi_rat.jpg.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\mipmap-xxhdpi\\rat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_bird.jpg.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\bird.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_animal_button_shape.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\animal_button_shape.xml"
+    },
+    {
+        "merged": "com.myappmysps.animalsapp-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.myappmysps.animalsapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\mipmap-xxhdpi_cat.jpg.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\mipmap-xxhdpi\\cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\mipmap-xxhdpi_tiger.jpg.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\mipmap-xxhdpi\\tiger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_jack.jpg.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\jack.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_dog.jpg.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_dog.webp.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\dog.webp"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\drawable_animal_border.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\drawable\\animal_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\layout_animal_layout.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\layout\\animal_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\xml\\data_extraction_rules.xml"
+    }
+]

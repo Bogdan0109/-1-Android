@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.myappmysps.animalsapp-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.myappmysps.animalsapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-mergeDebugResources-30:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-mergeDebugResources-30:\\layout\\animal_layout.xml",
+        "source": "C:\\Users\\Boss\\.gradle\\daemon\\8.0\\com.myappmysps.animalsapp-main-33:\\layout\\animal_layout.xml"
+    }
+]
